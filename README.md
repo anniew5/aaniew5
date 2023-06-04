@@ -3,9 +3,11 @@
 ---
 Hello, I am a second year Electrical and Computer Engineering student at the Unieversity of Toronto. My love for computers and technology inspired me to pursue engineering and build on my understanding of the inner workings of computers, designing innovative solutions, and contributing to the ever-evolving field of technology. I'm excited about the possibilities that lie ahead and look forward to making a positive impact through my work. Welcome to my github!
 
-### ⛏️ Current Projects
+### ⛏️ Current Projects (section under maintenance)
 
-(I am gatekeeping this section until I complete them hehe)
+- ML one
+- hardware one
+- das it 4 now 
 
 ### ⚙️ Languages and Tools
 
