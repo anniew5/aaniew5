@@ -1,4 +1,4 @@
-# Hi hello! 👋 I'm [Annie Wang](https://anniew5.github.io/index.html)
+# Hi hello! 👋 I'm [Annie Wang](https://anniew5.github.io/index.html) ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 
 Welcome to my GitHub! I'm a third year Electrical and Computer Engineering student at the University of Toronto, specializing in Energy Systems, Control Systems, and Sustainable Energy. I am passionate about leveraging technology to create innovative and sustainable solutions. 
@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm a third year Electrical and Computer Engineering stude
 
 ### About Me
 
-- 🌱 I’m currently learning advanced techniques in energy systems and control theory.
-- 👯 I’m looking to collaborate on projects related to sustainable energy and embedded systems.
-- 💬 Ask me about my experience with PCB design, microcontrollers, or system simulations.
-- 🥅 2024 Goals: Further my expertise in renewable energy and control system optimization.
-- ⚡ Fun fact: I love exploring the intersection of engineering and environmental sustainability.
+- 🌱 I’m currently learning advanced techniques in energy systems and control theory
+- 👯 I’m looking to collaborate on projects related to sustainable energy and electronics
+- 💬 Ask me about my experience with PCB design, microcontrollers, or system simulations
+- 🥅 2024 Goals: Further my expertise in renewable energy and control system optimization
+- ⚡ Fun fact: I like doing arts and crafts and also playing video games sometimes
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a third year Electrical and Computer Engineering stude
 - **LinkedIn**: [Annie Wang](https://www.linkedin.com/in/annie-wang123/)
 - **Email**: [anniell.wang@mail.utoronto.ca](mailto:anniell.wang@mail.utoronto.ca)
 
-Thank you for visiting!
+Thank you for visiting! ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
 <br />
 
