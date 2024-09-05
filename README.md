@@ -1,20 +1,54 @@
-# 🌱  [Annie Wang](https://www.anniewebsite123.com)
+# Hi hello! 👋 I'm [Annie Wang](https://anniew5.github.io/index.html)
+
+
+Welcome to my GitHub! I'm a third year Electrical and Computer Engineering student at the University of Toronto, specializing in Energy Systems, Control Systems, and Sustainable Energy. I am passionate about leveraging technology to create innovative and sustainable solutions. 
 
 ---
-Hello, I am a second year Electrical and Computer Engineering student at the University of Toronto. My love for computers and technology inspired me to pursue engineering and build on my understanding of the inner workings of computers, designing innovative solutions, and contributing to the ever-evolving field of technology. I'm excited about the possibilities that lie ahead and look forward to making a positive impact through my work. Welcome to my github!
 
-### ⛏️ Current Projects (section under maintenance)
+## About Me
 
-- ML one
-- hardware one
-- das it 4 now 
+- 🌱 I’m currently learning advanced techniques in energy systems and control theory.
+- 👯 I’m looking to collaborate on projects related to sustainable energy and embedded systems.
+- 💬 Ask me about my experience with PCB design, microcontrollers, or system simulations.
+- 🥅 2024 Goals: Further my expertise in renewable energy and control system optimization.
+- ⚡ Fun fact: I love exploring the intersection of engineering and environmental sustainability.
 
-### ⚙️ Languages and Tools
+---
 
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" />
-<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+### Tools
+
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-red?style=flat&logo=raspberry-pi&logoColor=white)
+![Altium PCB Designer](https://img.shields.io/badge/-Altium_PCB_Designer-blue?style=flat)
+![Intel Quartus Prime](https://img.shields.io/badge/-Intel_Quartus_Prime-green?style=flat)
+![LTSpice](https://img.shields.io/badge/-LTSpice-yellow?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white)
+![Oscilloscope](https://img.shields.io/badge/-Oscilloscope-purple?style=flat)
+
+### Programming Languages
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-green?style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=matlab)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+
+---
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anniew5&show_icons=true&hide_border=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniew5&layout=compact&theme=radical)
+
+---
+
+## How to reach me
+
+- **LinkedIn**: [Annie Wang](https://www.linkedin.com/in/annie-wang123/)
+- **Email**: [anniell.wang@mail.utoronto.ca](mailto:anniell.wang@mail.utoronto.ca)
+
+
 
 <br />
 
