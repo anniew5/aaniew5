@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a third year Electrical and Computer Engineering stude
 
 ---
 
-## About Me
+### About Me
 
 - 🌱 I’m currently learning advanced techniques in energy systems and control theory.
 - 👯 I’m looking to collaborate on projects related to sustainable energy and embedded systems.
@@ -36,12 +36,12 @@ Welcome to my GitHub! I'm a third year Electrical and Computer Engineering stude
 ---
 
 
-## How to reach me
+### How to reach me
 
 - **LinkedIn**: [Annie Wang](https://www.linkedin.com/in/annie-wang123/)
 - **Email**: [anniell.wang@mail.utoronto.ca](mailto:anniell.wang@mail.utoronto.ca)
 
-
+Thank you for visiting!
 
 <br />
 
