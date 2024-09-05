@@ -1,8 +1,8 @@
-# Hi hello! 👋 I'm [Annie Wang](https://anniew5.github.io/index.html)     
+# Hi hello! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I'm [Annie Wang](https://anniew5.github.io/index.html)     
 
 
 Welcome to my GitHub! I'm a third year Electrical and Computer Engineering student at the University of Toronto, specializing in Energy Systems, Control Systems, and Sustainable Energy. I am passionate about leveraging technology to create innovative and sustainable solutions. 
-ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+
 ---
 
 ### About Me
