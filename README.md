@@ -7,11 +7,10 @@ Welcome to my GitHub! I'm a third year Electrical and Computer Engineering stude
 
 ### About Me
 
-- 🌱 I’m currently learning advanced techniques in energy systems and control theory
-- 👯 I’m looking to collaborate on projects related to sustainable energy and electronics
-- 💬 Ask me about my experience with PCB design, microcontrollers, or system simulations
-- 🥅 2024 Goals: Further my expertise in renewable energy and control system optimization
-- ⚡ Fun fact: I like doing arts and crafts and also playing video games sometimes
+- I’m currently interested in analog electronics and control systems
+- Ask me about my experience with PCB design, microcontrollers, or system simulations
+- 2024 Goals: Secure a 12-16 month internship somewhere cool (like your company)
+- Fun fact: I like doing arts and crafts and also playing video games sometimes
 
 ---
 
